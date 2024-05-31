@@ -13,7 +13,7 @@ I'm keen on collaborating on ambitious projects that are aimed at improving soft
 Feel free to ask me anything about backend technologies, system architecture, or any tech-related queries. I'm here to help and share my knowledge.
 
 📫 **How to Reach Me:**
-- 🌐 [Web Site: 程序员班吉](https://benggee.com) _Link your WeChat account here_
+- 🌐 [Web Site: 程序员班吉](https://benggee.com)
 - 📧 [Email](mailto:devfajun@gmail.com)
 
 📚 **Fun Fact:**
