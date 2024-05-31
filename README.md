@@ -1,16 +1,16 @@
 ### 👋 Hi there, I'm Benge!
 
 🔭 **About Me:**
-I'm a seasoned software engineer specializing in backend development with a decade of experience crafting high-performance applications. I'm passionate about solving complex problems with efficient and scalable solutions.
+I'm a seasoned software engineer specializing in backend and full-stack development with over a decade of experience crafting high-performance applications. I'm passionate about solving complex problems with efficient and scalable solutions.
 
 🌱 **What I'm Focused On:**
 Currently, I am diving deeper into cloud architecture and DevOps practices to enhance my ability to design more resilient and flexible systems.
 
 👯 **Collaboration:**
-I'm keen on collaborating on ambitious projects that are aimed at improving software reliability and efficiency. If you're looking for someone who can transform challenging technical specifications into reality, let's connect!
+I'm keen on collaborating on ambitious projects aimed at improving software reliability and efficiency. If you're looking for someone who can transform challenging technical specifications into reality, let's connect!
 
 💬 **Ask Me About:**
-Feel free to ask me anything about backend technologies, system architecture, or any tech-related queries. I'm here to help and share my knowledge.
+Feel free to ask me anything about backend technologies, full-stack development, system architecture, or any tech-related queries. I'm here to help and share my knowledge.
 
 📫 **How to Reach Me:**
 - 🌐 [Web Site: 程序员班吉](https://benggee.com)
