@@ -1,36 +1,31 @@
-### 👋 Hi there, I'm Benge!
+# 👨‍💻 Benge (班吉)
+### Full-Spectrum Engineer: Bridging Atoms & Bits
 
-🔭 **About Me:**
-I'm a seasoned software engineer specializing in backend and full-stack development with over a decade of experience crafting high-performance applications. I'm passionate about solving complex problems with efficient and scalable solutions.
-
-🌱 **What I'm Focused On:**
-Currently, I am researching C++ full-stack development to enhance my skills in building robust and efficient software systems.
-
-💬 **Ask Me About:**
-Feel free to ask me anything about backend technologies, full-stack development, system architecture, or any tech-related queries. I'm here to help and share my knowledge.
-
-📫 **How to Reach Me:**
-- 🌐 [Web Site: 程序员班吉](https://benggee.com)
-- 📧 [Email](mailto:devfajun@gmail.com)
-
-📚 **Fun Fact:**
-I love exploring new technologies and staying updated with the latest industry trends. Outside of work, you might find me hiking or reading a good sci-fi novel!
+> 我不仅构建逻辑，也重塑物质。从 PCB 走线到云端架构，我负责将创意转化为完整的实体产品。
 
 ---
 
-⚡ **Let's build something amazing together.**
+#### 🌌 The Three Dimensions of My Work
 
-<!--
-**seepre/seepre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* **Physical 层**: PCB 电路设计 · 工业结构设计 (Mechanical Design)
+* **System 层**: 高性能后端 (`Golang` / `C++`) · 嵌入式逻辑
+* **Interface 层**: 跨平台交互 (`Flutter` / `QT` / `Electron`) · `Node.js`
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔭 Focus Areas
+* **IoT Ecosystems**: 打造从硬件感知到云端分析的闭环。
+* **High-Performance Tools**: 利用 C++ 和 Go 的性能极限解决复杂计算。
+* **Cross-Platform UI**: 追求极致的跨端一致性体验。
+
+---
+
+#### 🛠️ Tech Essence
+`C/C++` · `Golang` · `Flutter` · `QT` · `PCB/EDA` · `Electron`
+
+---
+
+#### 💬 Contact
+[Web Site: 程序员班吉](https://benggee.com) | [Email](mailto:devfajun@gmail.com)
+
+**"One-man army, from hardware to cloud."**
