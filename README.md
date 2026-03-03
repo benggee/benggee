@@ -26,6 +26,6 @@
 ---
 
 #### 💬 Contact
-[Web Site: 程序员班吉](https://benggee.com) | [Email](mailto:devfajun@gmail.com)
+ [Email](mailto:devfajun@gmail.com)
 
 **"One-man army, from hardware to cloud."**
